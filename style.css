@@ -1,0 +1,21 @@
+.card{
+    width: 300px;
+    height: 500px;
+    border: 1px solid gray;
+    margin: 50px auto;
+    padding: 15px 10px;
+}
+.input{
+    border: 2px solid rgb(102, 158, 161);
+    border-radius: 50px;
+    height: 50px;
+    width: 300px;
+    font-size: 20px;
+}
+
+.submit-button{
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 50px;
+    height: 50px;
+    font-size: 20px;
+}
